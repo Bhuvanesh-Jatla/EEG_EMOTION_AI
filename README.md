@@ -5,7 +5,7 @@ studying in VIT chennai,India | Open to remote internships globally
 ## 🔥 Featured Project
 **EEG Emotion AI** — Decoding brain states from EEG signals  
 → Two-stage ML pipeline | DEAP dataset | Streamlit dashboard  
-→ [View Project](https://github.com/Boo1230/EEG_EMOTION_AI)
+→ [View Project](https://github.com/Bhuvanesh-Jatla/EEG_EMOTION_AI)
 
 ## 🛠 Skills
 Python, C,C++,Java,Wireshark,Burpsuite,Nmap,Cisco packet tracer,  · XGBoost · Signal Processing · Streamlit · Git
