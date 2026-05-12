@@ -11,7 +11,7 @@ studying in VIT chennai,India | Open to remote internships globally
 Python, C,C++,Java,Wireshark,Burpsuite,Nmap,Cisco packet tracer,  · XGBoost · Signal Processing · Streamlit · Git
 
 ## 📫 Reach me
-[LinkedIn](www.linkedin.com/in/bhuvanesh-jatla-0201b737b)
+[Linkldn] www.linkedin.com/in/bhuvanesh-jatla-0201b737b
 [Email] (j.bhuvan30@gmail.com)
 # 🧠 EEG Emotion AI — BrainTech 32+
 
