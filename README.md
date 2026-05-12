@@ -1,9 +1,29 @@
+# Hi, I'm Bhuvanesh 
+2nd year undergrad pursuing Computer Science engineering with specialization in cybersecurity. | ML & Signal Processing enthusiast  
+studying in VIT chennai,India | Open to remote internships globally
+
+## 🔥 Featured Project
+**EEG Emotion AI** — Decoding brain states from EEG signals  
+→ Two-stage ML pipeline | DEAP dataset | Streamlit dashboard  
+→ [View Project](https://github.com/Boo1230/EEG_EMOTION_AI)
+
+## 🛠 Skills
+Python, C,C++,Java,Wireshark,Burpsuite,Nmap,Cisco packet tracer,  · XGBoost · Signal Processing · Streamlit · Git
+
+## 📫 Reach me
+[LinkedIn](www.linkedin.com/in/bhuvan-jatla-0201b737b)
+[Email] (j.bhuvan30@gmail.com)
 # 🧠 EEG Emotion AI — BrainTech 32+
 
 > **Multi-Task EEG-Based Emotion & Focus Prediction System**
 > Built for Clarity BrainTech 32+ (CMEEG-01) | DEAP Dataset | Two-Stage ML Pipeline
 
 ---
+Copyright © 2026 Bhuvanesh Jatla and Kiran Nambiar
+
+This project is publicly visible for educational and portfolio purposes only.
+
+You may not copy, redistribute, modify, or use this code commercially without explicit permission.
 
 ## 🎯 Project Overview
 
@@ -17,6 +37,25 @@ A production-ready AI system that decodes **four brain states** from raw EEG sig
 | 🎯 **Focus** | Regression | Score 0–100 |
 
 ---
+## 📦 Dataset & Models
+
+This repo does not include large files directly.
+Download them and place them in the correct folders:
+
+### DEAP Dataset (preprocessed)
+📥 [Download data/ folder](https://drive.google.com/drive/folders/193jcaRb9J_i90PPEOdpX6vgZjxmCYN62?usp=sharing)
+→ Place contents inside `data/` folder
+
+### Trained Model Files (.pkl)
+📥 [Download models/ folder](https://drive.google.com/drive/folders/1DNBRisKwd0Yu1SzuozAQ293W34Tf43qM?usp=sharing)
+→ Place contents inside `models/` folder
+
+## 🚀 Setup Instructions
+1. Clone this repo 
+git clone https://github.com/Boo1230/EEG_EMOTION_AI.git
+2. Download data and models from links above
+
+
 
 ## 🏗️ Folder Structure
 
@@ -218,7 +257,7 @@ plotly
 
 ---
 
-## 🏆 Hackathon Pitch
+## Internship Pitch
 
 > *"We decode the invisible — translating raw electrical signals from the human brain into actionable emotion and focus insights using a scientifically grounded, fully learned, two-stage machine learning pipeline. No rules. No shortcuts. Just EEG → Intelligence."*
 
